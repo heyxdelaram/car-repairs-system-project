@@ -4,7 +4,7 @@
 In a car repairs store, seven mechanics work together. The total capacity of this store is 56 cars per day.
 Car owners encounter the receptionist once they enter the store. The car is transported to the parking and enters the waitlist once the receptionist receives the documents and enters them in the system. When mechanic repairs, they write down the services that have been done and give them to the receptionist. After entering the services in the system, the car is now in the 'serviced' phase after being 'in service'. Once the paycheck is paid by the owner, the car is allowed to 'exit' the store.
 
-######Customer Requirements 📌
+###### Customer Requirements 📌
 
 1. The system's process starts with the receptionist each day. It must print the date and a welcome message at the top. If the work hours haven't started yet, it shouldn't allow any cars to be submitted to the program.
 2. The program must always stay running unless it is manually closed by clicking a specific button.
